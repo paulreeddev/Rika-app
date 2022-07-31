@@ -20,14 +20,21 @@ const region = REGION;
 const accessKeyId = ACCESSKEYID;
 const secretAccessKey = SECRETACCESSKEY;
 ```
-### To run the application
+## To run the application
+
+if you haven't installed netlify-cli
+```
+npm install netlify-cli -g
+```
+### Intall dependencies
+
 ```
 yarn install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+netlify dev
 ```
 
 ### Compiles and minifies for production
