@@ -20,7 +20,7 @@ const region = REGION;
 const accessKeyId = ACCESSKEYID;
 const secretAccessKey = SECRETACCESSKEY;
 ```
-
+### To run the application
 ```
 yarn install
 ```
