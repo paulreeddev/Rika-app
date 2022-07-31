@@ -1,0 +1,37 @@
+{
+  "name": "reaction-gifs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "aws-multipart-parser": "^0.2.1",
+    "aws-sdk": "^2.853.0",
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "cuid": "^2.1.8",
+    "flowbite": "^1.5.1",
+    "mysql": "^2.18.1",
+    "netlify-identity-widget": "^1.9.2",
+    "vue": "^2.6.14",
+    "vue-router": "^3.5.1",
+    "vue-star-rating": "^1.7.0",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.6",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
