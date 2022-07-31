@@ -42,7 +42,4 @@ netlify dev
 yarn build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
 Made as part of [PlanetScale](https://planetscale.com) x [Hashnode](https://hashnode.com) hackathon.
