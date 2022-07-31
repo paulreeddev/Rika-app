@@ -3,7 +3,7 @@ Rika collects and provides a quality gifs through a simple API which is used to 
 
 ## Project setup
 ### Database
-Aquire and fill out this variables, this app is tested on Planetscale server less database, you can chec it out on this [link](https://planetscale.com).
+Aquire and fill out this variables, this app is tested on Planetscale server less database, you can check it out [here](https://planetscale.com).
 ```
 database: DATABASE_NAME,
 user: USER_NAME,
